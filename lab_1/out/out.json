@@ -1,0 +1,9 @@
+{
+  "support_dual_sim": 1019,
+  "support_3g": 1523,
+  "n_cores_max": 8,
+  "battery_power_mean_average": 1238.5185,
+  "battery_power_deviation": 439.41820608353135,
+  "battery_power_median": 1226.0,
+  "battery_power_quantile_2_5": 1076.0
+}
