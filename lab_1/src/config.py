@@ -1,1 +1,1 @@
-DSSRC = "../dataset/mobile_phones.csv"
+DSSRC = "dataset/mobile_phones.csv"
