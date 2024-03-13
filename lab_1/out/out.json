@@ -1,9 +1,29 @@
 {
-  "support_dual_sim": 1019,
-  "support_3g": 1523,
-  "n_cores_max": 8,
-  "battery_power_mean_average": 1238.5185,
-  "battery_power_deviation": 439.41820608353135,
-  "battery_power_median": 1226.0,
-  "battery_power_quantile_2_5": 1076.0
+  "all": {
+    "support_dual_sim": 1019,
+    "support_3g": 1523,
+    "n_cores_max": 8,
+    "battery_power_mean_average": 1238.5185,
+    "battery_power_deviation": 439.4182060835312,
+    "battery_power_median": 1226.0,
+    "battery_power_quantile_2_5": 1076.0
+  },
+  "no_wifi": {
+    "support_dual_sim": 491,
+    "support_3g": 749,
+    "n_cores_max": 8,
+    "battery_power_mean_average": 1242.235294117647,
+    "battery_power_deviation": 442.863904581856,
+    "battery_power_median": 1222.0,
+    "battery_power_quantile_2_5": 1076.0
+  },
+  "wifi": {
+    "support_dual_sim": 528,
+    "support_3g": 774,
+    "n_cores_max": 8,
+    "battery_power_mean_average": 1234.9043392504932,
+    "battery_power_deviation": 436.22975656667734,
+    "battery_power_median": 1233.0,
+    "battery_power_quantile_2_5": 1077.8000000000002
+  }
 }
